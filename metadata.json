@@ -1,0 +1,6 @@
+{
+  "name": "MindSpace 3D — Interactive Knowledge Universe",
+  "description": "Interactive 3D knowledge exploration universe with interconnected concept graphs, real-time spatial navigation, and progress tracking.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
